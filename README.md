@@ -1,1 +1,1 @@
-# Machine_Learning_Cheat_Paper
+### MachineLearning_CheatSheet
